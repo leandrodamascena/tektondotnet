@@ -1,0 +1,9 @@
+D:\DEVEL-NET\easynvest\libteste\libteste\libteste\obj\Debug\netcoreapp3.1\libteste.csprojAssemblyReference.cache
+D:\DEVEL-NET\easynvest\libteste\libteste\libteste\obj\Debug\netcoreapp3.1\libteste.csproj.CoreCompileInputs.cache
+D:\DEVEL-NET\easynvest\libteste\libteste\libteste\obj\Debug\netcoreapp3.1\libteste.AssemblyInfoInputs.cache
+D:\DEVEL-NET\easynvest\libteste\libteste\libteste\obj\Debug\netcoreapp3.1\libteste.AssemblyInfo.cs
+D:\DEVEL-NET\easynvest\libteste\libteste\libteste\bin\Debug\netcoreapp3.1\libteste.deps.json
+D:\DEVEL-NET\easynvest\libteste\libteste\libteste\bin\Debug\netcoreapp3.1\libteste.dll
+D:\DEVEL-NET\easynvest\libteste\libteste\libteste\bin\Debug\netcoreapp3.1\libteste.pdb
+D:\DEVEL-NET\easynvest\libteste\libteste\libteste\obj\Debug\netcoreapp3.1\libteste.dll
+D:\DEVEL-NET\easynvest\libteste\libteste\libteste\obj\Debug\netcoreapp3.1\libteste.pdb
